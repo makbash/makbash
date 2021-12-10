@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makbash&label=Profile%20views&color=ff7300&style=flat" alt="makbash" /> </p>
 
-<p align="left"> <a href="https://github.com/makbash/makbash"><img src="https://github-profile-trophy.vercel.app/?username=makbash&theme=onedark&no-frame=true" alt="makbash" /></a> </p>
-
 - 🌱 I’m currently learning **NodeJS & ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://mustafa.akbas.net](https://mustafa.akbas.net)
@@ -14,10 +12,6 @@
 - 📫 How to reach me **mustafa@akbas.net**
 
 - 📄 Know about my experiences [https://mustafa.akbas.net](https://mustafa.akbas.net)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

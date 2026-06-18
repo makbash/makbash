@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mustafa.akbas.net](https://mustafa.akbas.net)
 
-- 💬 Ask me about **Python & C++ & C# & NodeJS & ReactJS & TypeScript & PHP**
+- 💬 Ask me about ** Python & C++ & C# & NodeJS & ReactJS & TypeScript & PHP & PostgreSQL & MySQL & UE5+ **
 
 - 📫 How to reach me **mustafa@akbas.net**
 
